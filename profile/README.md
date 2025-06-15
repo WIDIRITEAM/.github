@@ -1,6 +1,6 @@
 # WIDIRI
 
-**We Did It Right** — Soluciones de software a medida para tu negocio.
+Soluciones de software a medida para tu negocio.
 
 Somos una **software factory** enfocada en resolver problemas reales mediante soluciones digitales sólidas, modernas y escalables.
 
